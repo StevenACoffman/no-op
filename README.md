@@ -1,6 +1,8 @@
 # no-op
 Timing how long it takes to do nothing in various languages/environments
 
+## Conclusion nvm does not add much overhead, but pyenv does
+
 ### Node v 5.9.1 install (/usr/local/bin/node)
 |  type | time |
 |---|---|
